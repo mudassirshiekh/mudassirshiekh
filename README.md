@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mudassir Alam</h1>
 <h3 align="center">A Innovative website Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.nWQ_U5NKEfNeGCTfh_2-MwAAAA?rs=1&pid=ImgDetMain">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassirshiekh&label=Profile%20views&color=0e75b6&style=flat" alt="mudassirshiekh" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mudassir-alam](https://www.linkedin.com/in/mudassir-alam)

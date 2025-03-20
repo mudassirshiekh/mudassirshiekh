@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mudassiralam.dorik.io/](https://mudassiralam.dorik.io/)
 
-=- 📫 How to reach me **modassiralam9496@gmail.com**
+- 📫 How to reach me **modassiralam9496@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 

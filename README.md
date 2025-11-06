@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **modassiralam9496@gmail.com**
 
-- ⚡ Fun fact **I recharge in silence but perform in spotlight.**
+- ⚡ Fun fact: **I recharge in silence but perform in spotlight.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

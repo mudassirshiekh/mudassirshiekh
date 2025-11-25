@@ -1,6 +1,8 @@
  ![logo](https://github.com/mudassirshiekh/mudassirshiekh/blob/main/Github_back.png)
 <h1 align="center">👋 Hi there, I'm Mudassir Alam - Welcome to my GitHub!</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+Developer+From+India;Crypto+%26+Blockchain+%26+AI+Builder;HTML+%7C+CSS+%26+Javascript+%7C+Nodejs+%7C+MongoDB+Expert;Let%27s+Connect+%26+build+something+cool!&center=false&width=510&height=45">
+</p>
 
 <img align="right" alt="coding.gif" width="380" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 

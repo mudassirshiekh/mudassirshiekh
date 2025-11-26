@@ -54,10 +54,12 @@
 ![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=yellow)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-111827?style=for-the-badge&logo=ruby&logoColor=red)
 ![Solidity](https://img.shields.io/badge/Solidity-111827?style=for-the-badge)
+
 
 ---
 
@@ -66,6 +68,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-111827?style=for-the-badge&logo=framer&logoColor=white)
@@ -93,6 +96,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37726)
@@ -104,6 +108,7 @@
 ![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-111827?style=for-the-badge&logo=amazonaws&logoColor=orange)
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=white)

@@ -1,4 +1,4 @@
-<img width="1540" height="502" alt="ChatGPT Image Dec 24, 2025, 08_57_15 PM" src="https://github.com/user-attachments/assets/e9be3573-1b68-4951-af11-fd68e27321be" />
+<img width="1540" height="500" alt="ChatGPT Image Dec 24, 2025, 08_57_15 PM" src="https://github.com/user-attachments/assets/e9be3573-1b68-4951-af11-fd68e27321be" />
 <h1 align="center">👋 Hi there, I'm Mudassir Alam - Welcome to my GitHub!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+Developer+From+India;Crypto+%26+Blockchain+%26+AI+Builder;HTML+%7C+CSS+%26+Javascript+%7C+Nodejs+%7C+MongoDB+Expert;Let%27s+Connect+%26+build+something+cool!&center=false&width=510&height=45">
@@ -14,8 +14,9 @@
 
 📌 **Actively looking for internships & entry-level software roles**
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mudassiralam.dorik.io)
 
+---
 ## 🛠️ Tools & Tech Stack
 
 ### Languages:

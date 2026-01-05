@@ -4,19 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+Developer+From+India;Crypto+%26+Blockchain+%26+AI+Builder;HTML+%7C+CSS+%26+Javascript+%7C+Nodejs+%7C+MongoDB+Expert;Let%27s+Connect+%26+build+something+cool!&center=false&width=510&height=45">
 </p>
 
-<img align="right" alt="coding.gif" width="380" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+---
 
 ## 👨‍💻 About Me
 
-- Strong foundation in **Data Structures & Algorithms**
-- Hands-on experience in **Full-Stack Development (MERN / Next.js)**
-- Worked on **AI, Computer Vision & Blockchain-based projects**
-- Love building **real-world, production-ready systems**
-- Actively participating in hackathons & tech communities
+🚀 Strong foundation in **Data Structures & Algorithms** with hands-on **Full-Stack Development (MERN / Next.js)**  
+🤖 Built projects in **AI, Computer Vision & Blockchain** with practical, real-world focus  
+💡 Passionate about building **scalable, production-ready systems** and actively engaging in **hackathons & tech communities**
 
 📌 **Actively looking for internships & entry-level software roles**
 
 ---
+
 ## 🛠️ Tools & Tech Stack
 
 ### Languages:
@@ -86,7 +85,7 @@
 
 ---
 
-### Featured Projects:
+### 🌟 Featured Projects:
 
 <table>
   <tr>
@@ -127,18 +126,18 @@
 </table>
 
 ---
-<h3 align="left">Support:</h3>
+<h3 align="left">☕ Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.paypal.me/MdMudassir197"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.me/MdMudassir197" /></a></p><br><br>
 
 ---
-### My GitHub Stats:
+### 📊 My GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mudassirshiekh)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mudassirshiekh&theme=github-compact)
 
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mudassir_444" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
@@ -169,3 +168,8 @@
 </a>
 
 </p>
+
+---
+
+> *I focus on building real products, not just writing code.*  
+🚀 **Future Software Engineer | Always Learning**

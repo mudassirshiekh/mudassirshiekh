@@ -86,7 +86,7 @@
 
 ---
 
-### 🚧 Currently Working On:
+## 🚧 Currently Working On:
 
 🚀 Building real-world **Full-Stack & AI-based applications**  
 🧠 Strengthening **Data Structures & problem-solving skills**  
@@ -94,7 +94,7 @@
 
 ---
 
-### 🌟 Featured Projects:
+## 🌟 Featured Projects:
 
 <table>
   <tr>
@@ -135,18 +135,18 @@
 </table>
 
 ---
-<h3 align="left">☕ Support:</h3>
+<h2 align="left">☕ Support:</h2>
 <p><a href="https://www.buymeacoffee.com/https://www.paypal.me/MdMudassir197"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.me/MdMudassir197" /></a></p><br><br>
 
 ---
-### 📊 My GitHub Stats:
+## 📊 My GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mudassirshiekh)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mudassirshiekh&theme=github-compact)
 
 ---
-<h3 align="left">🤝 Connect with me:</h3>
+<h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/mudassir_444" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />

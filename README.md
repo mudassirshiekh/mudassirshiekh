@@ -86,6 +86,14 @@
 
 ---
 
+### 🚧 Currently Working On:
+
+🚀 Building real-world **Full-Stack & AI-based applications**  
+🧠 Strengthening **Data Structures & problem-solving skills**  
+🔗 Exploring **Blockchain & Web3 development**
+
+---
+
 ### 🌟 Featured Projects:
 
 <table>

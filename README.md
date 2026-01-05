@@ -163,8 +163,6 @@
 ---
 ### My GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mudassirshiekh&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mudassirshiekh&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mudassirshiekh)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mudassirshiekh&theme=github-compact)

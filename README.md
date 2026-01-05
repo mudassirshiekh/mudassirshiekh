@@ -6,45 +6,15 @@
 
 <img align="right" alt="coding.gif" width="380" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassirshiekh&label=Profile%20views&color=0e75b6&style=flat" alt="mudassirshiekh" /> </p>
+## 👨‍💻 About Me
 
-- 🚀 My Portfolio   [https://mudassiralam.dorik.io/](https://mudassiralam.dorik.io/)
+- Strong foundation in **Data Structures & Algorithms**
+- Hands-on experience in **Full-Stack Development (MERN / Next.js)**
+- Worked on **AI, Computer Vision & Blockchain-based projects**
+- Love building **real-world, production-ready systems**
+- Actively participating in hackathons & tech communities
 
-- 📫 How to reach me **modassiralam9496@gmail.com**
-
-- ⚡ Fun fact: **I recharge in silence but perform in spotlight.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mudassir_444" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/mudassiralam786" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/mudassiralam123?mibextid=zbwkwl" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/mudassirxalam" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/mudassir_444/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerearth.com/@modassiralam9496/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
-</a>
-<a href="https://discord.com/users/mudassir_444" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-</a>
-<a href="https://www.reddit.com/user/mudassir_alam/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="30" width="40" />
-</a>
-<a href="https://devpost.com/modassiralam9496" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/devpost/white" height="30" width="40" />
-</a>
-
-</p>
+📌 **Actively looking for internships & entry-level software roles**
 
 ---
 ## 🛠️ Tools & Tech Stack
@@ -166,3 +136,36 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=mudassirshiekh)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mudassirshiekh&theme=github-compact)
+
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mudassir_444" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/mudassiralam786" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/mudassiralam123?mibextid=zbwkwl" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/mudassirxalam" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/mudassir_444/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="https://www.hackerearth.com/@modassiralam9496/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
+</a>
+<a href="https://discord.com/users/mudassir_444" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+</a>
+<a href="https://www.reddit.com/user/mudassir_alam/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="30" width="40" />
+</a>
+<a href="https://devpost.com/modassiralam9496" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/devpost/white" height="30" width="40" />
+</a>
+
+</p>

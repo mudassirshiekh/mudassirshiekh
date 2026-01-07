@@ -92,9 +92,10 @@
 🧠 Strengthening **Data Structures & problem-solving skills**  
 🔗 Exploring **Blockchain & Web3 development**
 
+
 ---
 
-## 🌟 Featured Projects:
+## 🌟 Highlight Projects:
 
 <table>
   <tr>

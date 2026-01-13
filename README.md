@@ -95,18 +95,32 @@
 
 ---
 
-## 🌟 Highlight Projects:
+
+## 🌟 Highlighted Projects
 
 <table>
   <tr>
-    <th>🚀 Project Name</th>
+    <th>🚀 Project</th>
+    <th>📝 Description</th>
     <th>⚙️ Tech Stack</th>
     <th>🌐 Live</th>
   </tr>
 
   <tr>
+    <td><b>AI Student Burnout Detection System</b></td>
+    <td>Web app that identifies early signs of student burnout using academic and engagement data.</td>
+    <td>HTML5, CSS3, JavaScript, Node.js, MongoDB, Machine Learning, Figma</td>
+    <td>
+      <a href="https://shelf-chute-38918830.figma.site/" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
     <td><b>EcoVision AI</b></td>
-    <td>HTML, Javascript, Tailwind CSS, Figma, Node.js, MongoDB, Postgres SQL, Gemini API, OPenCV, NumPy, Docker</td>
+    <td>AI-based assistant designed to promote environmental awareness and sustainable practices.</td>
+    <td>HTML5, CSS3, JavaScript, Node.js, MongoDB, Gemini API, Figma</td>
     <td>
       <a href="https://lunch-revise-08635716.figma.site/" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge"/>
@@ -115,25 +129,18 @@
   </tr>
 
   <tr>
-    <td><b>Algo Warriors Attendance — Smart Attendance Tracking System</b></td>
-    <td>HTML, CSS, Javascript, Tailwind CSS, Figma, NextJs, MongoDB, Supabase, OpenCV, Dlib, Rest API, Vercel</td>
+    <td><b>Algo Warriors Attendance System</b></td>
+    <td>Smart attendance system to simplify and automate student attendance tracking.</td>
+    <td>HTML5, CSS3, JavaScript, Next.js, MongoDB, REST API</td>
     <td>
-      <a href="https://www.figma.com/make/mDqyInPuBm9C7EqQomG91E/Algo-Warriors-Attendance-App?node-id=0-1&p=f&t=xXCqq0Ceb1wTlV3k-0&fullscreen=1" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Animated Portfolio</b></td>
-    <td>Dora.ai, UI/UX, Framer Motion</td>
-    <td>
-      <a href="https://mudassiralam.dorik.io" style="text-decoration:none;">
+      <a href="https://www.figma.com/make/mDqyInPuBm9C7EqQomG91E/Algo-Warriors-Attendance-App" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge"/>
       </a>
     </td>
   </tr>
 </table>
+
+
 
 ---
 <h2 align="left">☕ Support:</h2>

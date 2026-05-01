@@ -1,4 +1,4 @@
-<img width="1500" height="490" alt="ChatGPT Image Dec 24, 2025, 08_57_15 PM" src="https://github.com/user-attachments/assets/e9be3573-1b68-4951-af11-fd68e27321be" />
+<img width="932" height="838" alt="image" src="https://github.com/user-attachments/assets/a8bea7d2-2259-4e01-8d4b-a3bdc6dc6714" /><img width="1500" height="490" alt="ChatGPT Image Dec 24, 2025, 08_57_15 PM" src="https://github.com/user-attachments/assets/e9be3573-1b68-4951-af11-fd68e27321be" />
 <h1 align="center">👋 Hi there, I'm Mudassir Alam - Welcome to my GitHub!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+Developer+From+India;Crypto+%26+Blockchain+%26+AI+Builder;HTML+%7C+CSS+%26+Javascript+%7C+Nodejs+%7C+MongoDB+Expert;Let%27s+Connect+%26+build+something+cool!&center=false&width=510&height=45">

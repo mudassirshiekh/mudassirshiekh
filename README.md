@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-🚀 Strong foundation in **Data Structures & Algorithms** with hands-on **Full-Stack Development (MERN / Next.js)**  
-🤖 Built projects in **AI, Computer Vision & Blockchain** with practical, real-world focus  
-💡 Passionate about building **scalable, production-ready systems** and actively engaging in **hackathons & tech communities**
+ Strong foundation in **Data Structures & Algorithms** with hands-on **Full-Stack Development (MERN / Next.js)**  
+ Built projects in **AI, Computer Vision & Blockchain** with practical, real-world focus  
+ Passionate about building **scalable, production-ready systems** and actively engaging in **hackathons & tech communities**
 
 📌 **Actively looking for internships & entry-level software roles**
 

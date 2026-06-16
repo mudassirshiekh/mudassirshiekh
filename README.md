@@ -5,7 +5,6 @@
 </p>
 
 
-
 ## 👨‍💻 About Me
 
  Strong foundation in **Data Structures & Algorithms** with hands-on **Full-Stack Development (MERN / Next.js)**  

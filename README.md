@@ -158,21 +158,27 @@
   <a href="https://twitter.com/mudassir_444" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="45" />
   </a>
+
   <a href="https://www.linkedin.com/in/mudassiralam786" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
   </a>
+
   <a href="https://www.instagram.com/mudassirxalam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" />
   </a>
+
   <a href="https://leetcode.com/u/mudassir_444/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="45" />
   </a>
+
+  <a href="https://www.codechef.com/users/mudassiralam78" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="35" width="45" />
+  </a>
+
   <a href="https://discord.com/users/mudassir_444" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="35" width="45" />
   </a>
-  <a href="https://www.reddit.com/user/mudassir_alam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="35" width="45" />
-  </a>
+
   <a href="https://devpost.com/modassiralam9496" target="_blank">
     <img src="https://cdn.simpleicons.org/devpost/white" height="35" width="45" />
   </a>

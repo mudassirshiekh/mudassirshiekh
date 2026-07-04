@@ -131,7 +131,7 @@
     <td>Smart attendance system to simplify and automate student attendance tracking.</td>
     <td>HTML5, CSS3, JavaScript, Next.js, MongoDB, REST API</td>
     <td>
-      <a href="https://www.figma.com/make/mDqyInPuBm9C7EqQomG91E/Algo-Warriors-Attendance-App" style="text-decoration:none;">
+      <a href="https://hall-glass-63606163.figma.site/" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge"/>
       </a>
     </td>

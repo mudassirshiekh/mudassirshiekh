@@ -171,10 +171,6 @@
   <a href="https://leetcode.com/u/mudassir_444/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="45" />
   </a>
-
-  <a href="https://www.codechef.com/users/mudassiralam78" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="35" width="45" />
-  </a>
   
 <a href="https://in.pinterest.com/mudassir_444/" target="_blank">
   <img src="https://cdn.simpleicons.org/pinterest/E60023" height="35" width="45" />
